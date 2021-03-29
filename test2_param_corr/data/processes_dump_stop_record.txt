@@ -1,0 +1,362 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 124
+Failed to get information of process Id: 584
+Failed to get information of process Id: 1020
+Failed to get information of process Id: 664
+Failed to get information of process Id: 796
+Failed to get information of process Id: 788
+Failed to get information of process Id: 1140
+Failed to get information of process Id: 1164
+Failed to get information of process Id: 1172
+Failed to get information of process Id: 1220
+Failed to get information of process Id: 1288
+Failed to get information of process Id: 1336
+Failed to get information of process Id: 1388
+Failed to get information of process Id: 1712
+Failed to get information of process Id: 1744
+Failed to get information of process Id: 1752
+Failed to get information of process Id: 1760
+Failed to get information of process Id: 1880
+Failed to get information of process Id: 1912
+Failed to get information of process Id: 1928
+Failed to get information of process Id: 1988
+Failed to get information of process Id: 1308
+Failed to get information of process Id: 2112
+Failed to get information of process Id: 2124
+Failed to get information of process Id: 2132
+Failed to get information of process Id: 2244
+Failed to get information of process Id: 2308
+Failed to get information of process Id: 2316
+Failed to get information of process Id: 2324
+Failed to get information of process Id: 2332
+Failed to get information of process Id: 2480
+Failed to get information of process Id: 2512
+Failed to get information of process Id: 2548
+Failed to get information of process Id: 2636
+Failed to get information of process Id: 2660
+Failed to get information of process Id: 2916
+Failed to get information of process Id: 2456
+Failed to get information of process Id: 2556
+Failed to get information of process Id: 672
+Failed to get information of process Id: 3112
+Failed to get information of process Id: 3108
+Failed to get information of process Id: 3176
+Failed to get information of process Id: 3184
+Failed to get information of process Id: 3220
+Failed to get information of process Id: 3436
+Failed to get information of process Id: 3504
+Failed to get information of process Id: 3688
+Failed to get information of process Id: 3732
+Failed to get information of process Id: 3740
+Failed to get information of process Id: 3724
+Failed to get information of process Id: 3764
+Failed to get information of process Id: 4008
+Failed to get information of process Id: 4112
+Failed to get information of process Id: 4120
+Failed to get information of process Id: 4132
+Failed to get information of process Id: 4256
+Failed to get information of process Id: 4296
+Failed to get information of process Id: 4312
+Failed to get information of process Id: 4364
+Failed to get information of process Id: 4396
+Failed to get information of process Id: 4636
+Failed to get information of process Id: 4644
+Failed to get information of process Id: 4656
+Failed to get information of process Id: 4692
+Failed to get information of process Id: 4704
+Failed to get information of process Id: 4716
+Failed to get information of process Id: 4736
+Failed to get information of process Id: 4776
+Failed to get information of process Id: 4784
+Failed to get information of process Id: 4824
+Failed to get information of process Id: 4844
+Failed to get information of process Id: 5024
+Failed to get information of process Id: 5080
+Failed to get information of process Id: 5092
+Failed to get information of process Id: 5100
+Failed to get information of process Id: 3256
+Failed to get information of process Id: 4376
+Failed to get information of process Id: 4308
+Failed to get information of process Id: 4224
+Failed to get information of process Id: 4268
+Failed to get information of process Id: 4600
+Failed to get information of process Id: 5144
+Failed to get information of process Id: 5664
+Failed to get information of process Id: 5684
+Failed to get information of process Id: 5788
+Failed to get information of process Id: 6004
+Failed to get information of process Id: 5928
+Failed to get information of process Id: 6736
+Failed to get information of process Id: 6944
+Failed to get information of process Id: 7160
+Failed to get information of process Id: 7184
+Failed to get information of process Id: 10160
+Failed to get information of process Id: 624
+Failed to get information of process Id: 7748
+Failed to get information of process Id: 10820
+Failed to get information of process Id: 10688
+Failed to get information of process Id: 10744
+Failed to get information of process Id: 4912
+Failed to get information of process Id: 5764
+Failed to get information of process Id: 6436
+Failed to get information of process Id: 10356
+Failed to get information of process Id: 2140
+Failed to get information of process Id: 10244
+Failed to get information of process Id: 8688
+Failed to get information of process Id: 10936
+Failed to get information of process Id: 5872
+Failed to get information of process Id: 2036
+Failed to get information of process Id: 5576
+Failed to get information of process Id: 10916
+Failed to get information of process Id: 1948
+Failed to get information of process Id: 9220
+Failed to get information of process Id: 11360
+Failed to get information of process Id: 7284
+Failed to get information of process Id: 5224
+Failed to get information of process Id: 3000
+Failed to get information of process Id: 11672
+Failed to get information of process Id: 3800
+Failed to get information of process Id: 3312
+Failed to get information of process Id: 10548
+Failed to get information of process Id: 3976
+Failed to get information of process Id: 12416
+Failed to get information of process Id: 5748
+Failed to get information of process Id: 9860
+Failed to get information of process Id: 1788
+Failed to get information of process Id: 10576
+Failed to get information of process Id: 11136
+Failed to get information of process Id: 11144
+Failed to get information of process Id: 9468
+Failed to get information of process Id: 13064
+Failed to get information of process Id: 9068
+Failed to get information of process Id: 8740
+Failed to get information of process Id: 4872
+Failed to get information of process Id: 7280
+Failed to get information of process Id: 7568
+Failed to get information of process Id: 6860
+Failed to get information of process Id: 6252
+Failed to get information of process Id: 13276
+Failed to get information of process Id: 12152
+Failed to get information of process Id: 13124
+Failed to get information of process Id: 7980
+Failed to get information of process Id: 2820
+Failed to get information of process Id: 12816
+Failed to get information of process Id: 1476
+Failed to get information of process Id: 11864
+Failed to get information of process Id: 13300
+Failed to get information of process Id: 10676
+PROCESS 0xbd8       magentproc.exe
+PROCESS 0xad8       vpnui.exe
+Failed to get information of process Id: 7212
+Failed to get information of process Id: 13088
+Failed to get information of process Id: 4168
+Failed to get information of process Id: 8244
+Failed to get information of process Id: 3960
+Failed to get information of process Id: 10412
+Failed to get information of process Id: 9916
+Failed to get information of process Id: 12296
+PROCESS 0xeb0       vugen.exe
+Failed to get information of process Id: 8648
+Failed to get information of process Id: 3372
+Failed to get information of process Id: 4496
+Failed to get information of process Id: 4820
+Failed to get information of process Id: 8928
+PROCESS 0x3278      httpd.exe
+PROCESS 0xd78       httpd.exe
+Failed to get information of process Id: 1540
+Failed to get information of process Id: 11996
+PROCESS 0x3240      iexplore.exe
+		11.00.19041.867 (WinBuild.160101.0800)C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntdll.dll
+		10.0.19041.329 (WinBuild.160101.0800)C:\Windows\System32\KERNEL32.DLL
+		10.0.19041.388 (WinBuild.160101.0800)C:\Windows\System32\KERNELBASE.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\apphelp.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\USER32.dll
+		10.0.19041.630 (WinBuild.160101.0800)C:\Windows\System32\win32u.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\GDI32.dll
+		10.0.19041.572 (WinBuild.160101.0800)C:\Windows\System32\gdi32full.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\msvcp_win.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\ucrtbase.dll
+		7.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\msvcrt.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\ADVAPI32.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\System32\sechost.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\RPCRT4.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\combase.dll
+		11.00.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\iertutil.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\shcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\IMM32.DLL
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\bbhook.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\api_trapper.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\VERSION.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\mosifs32.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\runtime_code_injection_lib.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\PathResolver.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\SHELL32.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\USERENV.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\wrapicu.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\thrdutil.dll
+		14.24.28127.4 built by: vcwrkspcC:\Windows\SYSTEM32\MSVCP140.dll
+		14.24.28127.4 built by: vcwrkspcC:\Windows\SYSTEM32\VCRUNTIME140.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\IPHLPAPI.DLL
+		55, 1, 0, 0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\icuuc55.dll
+		55, 1, 0, 0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\icudt55.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\api_sock_proxy.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\WS2_32.dll
+		                              C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\pcre-8.42.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\VnpLog.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\MicSocket.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\ipng_utils.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\VnpUtils.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\lrun50.dll
+		1.1.0g                        C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\libssl-lt-1_1.dll
+		1.1.0g                        C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\libcrypto-lt-1_1.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\CRYPT32.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WSOCK32.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\trans.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\msg_handler.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\merc_uuid.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\mlib_ds.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\ole32.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\comm_util.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\runlogic.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\libxdrutil.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\parameng.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\xdr.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\run_time_context.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\wrapzlib.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\faserver.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\config.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\lr_exp.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\trans_server.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\libdatatypes.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\data_types_ifs.dll
+		10.0.19041.488 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dbghelp.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\rtc_protocol.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\timediff_ext.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\jrequestor_srv.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\dc_requests.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dbgcore.DLL
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\api_http_filter.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\OLEAUT32.dll
+		                              C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\WebHTTP2Util.dll
+		1.31.90.0 (MSVC release)      C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\nghttp2.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\api_trapper1.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\WebMultiInProcNotify.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\bcryptPrimitives.dll
+		11.00.19041.630 (WinBuild.160101.0800)C:\Windows\SYSTEM32\msIso.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\uxtheme.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\kernel.appcore.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\MSCTF.dll
+		11.00.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\IEFRAME.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\SHLWAPI.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\NETAPI32.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINHTTP.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WKSCLI.DLL
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\NETUTILS.DLL
+		6.10 (WinBuild.160101.0800)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.488_none_11b1e5df2ffd8627\comctl32.dll
+		11.00.19041.1 (WinBuild.160101.0800)C:\Program Files (x86)\Internet Explorer\IEShims.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\comdlg32.dll
+		11.00.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MSHTML.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\powrprof.dll
+		10.0.19041.488 (WinBuild.160101.0800)C:\Windows\SYSTEM32\SspiCli.dll
+		                              C:\Windows\SYSTEM32\UMPDC.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\CRYPTBASE.DLL
+		11.00.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\urlmon.dll
+		2001.12.10941.16384 (WinBuild.160101.0800)C:\Windows\System32\clbcatq.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\windows.storage.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\Wldp.dll
+		11.00.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WININET.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\type_info_pool.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\sxs.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\profapi.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\TOKENBINDING.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\bcrypt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ondemandconnroutehelper.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\mswsock.dll
+		11.00.19041.572 (WinBuild.160101.0800)C:\Windows\System32\ieproxy.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\api_openssl_proxy.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\WebGetClientCertificate.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\WebCertificateCreator.dll
+		14.0.24215.1 built by: VCTOOLSD14ULDRC:\Windows\SYSTEM32\mfc140.dll
+		11.00.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\IEUI.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\d2d1.dll
+		11.00.19041.329               C:\Windows\SYSTEM32\ieapfltr.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\CRYPTSP.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DWrite.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dxgi.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\d3d11.dll
+		27.20.100.8190                C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_97abf3bd13eb713d\igd10iumd32.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ncrypt.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\NTASN1.dll
+		27.20.100.8190                C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_97abf3bd13eb713d\igdgmm32.dll
+		10.0.19041.610 (WinBuild.160101.0800)C:\Windows\System32\NSI.dll
+		27.20.100.8190                C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_97abf3bd13eb713d\igc32.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\dataexchange.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\dcomp.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\twinapi.appcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dxcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\cfgmgr32.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\Secur32.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MLANG.dll
+		7.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\PROPSYS.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINNSI.DLL
+		89.0.774.63                   C:\Program Files (x86)\Microsoft\Edge\Application\89.0.774.63\BHO\ie_to_edge_bho.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DNSAPI.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\edputil.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\fwpuclnt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\rasadhlp.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\Windows.StateRepositoryPS.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\WebSocketAnalyzer.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\wintypes.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\napinsp.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\pnrpnsp.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\wshbth.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\NLAapi.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\winrnr.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\appresolver.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\Bcp47Langs.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\SLC.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\sppc.dll
+		10.0.19041.610 (WinBuild.160101.0800)C:\Windows\System32\OneCoreCommonProxyStub.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dhcpcsvc.DLL
+		10.0.19041.610 (WinBuild.160101.0800)C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\atlthunk.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dwmapi.dll
+		10.0.19041.610 (WinBuild.160101.0800)C:\Windows\SYSTEM32\textinputframework.dll
+		10.0.19041.546                C:\Windows\System32\CoreUIComponents.dll
+		10.0.19041.546                C:\Windows\System32\CoreMessaging.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntmarta.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\api_sock_util.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\imagehlp.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\srpapi.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ninput.dll
+		11.00.19041.867 (WinBuild.160101.0800)C:\Windows\System32\jscript9.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\system32\msimtf.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\directmanipulation.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\vaultcli.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\windowscodecs.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\windowscodecsext.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\mscms.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ColorAdapterClient.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\icm32.dll
+		                              C:\Windows\SYSTEM32\TextShaping.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\System32\Windows.Globalization.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\bcp47mrm.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\globinputhost.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\system32\rsaenh.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\System32\schannel.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\CRYPTUI.DLL
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\mskeyprotect.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\system32\ncryptsslp.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\MSASN1.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\DPAPI.DLL
+		10.0.19041.630 (WinBuild.160101.0800)C:\Windows\System32\WINTRUST.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\gpapi.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\cryptnet.dll
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dhcpcsvc6.DLL
+		10.0.19041.867 (WinBuild.160101.0800)C:\Windows\SYSTEM32\webio.dll
+		6.30.19041.546                C:\Windows\System32\msxml6.dll
+Failed to get information of process Id: 10288
+Failed to get information of process Id: 1468
+Failed to get information of process Id: 3924

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\user\Desktop\LR\test2_param_corr
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\user\desktop\lr\test2_param_corr\\logfile.log
+c:\users\user\desktop\lr\test2_param_corr\\combined_test2_param_corr.c
+c:\users\user\desktop\lr\test2_param_corr\\pre_cci.c
