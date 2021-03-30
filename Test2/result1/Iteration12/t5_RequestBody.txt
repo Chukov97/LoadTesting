@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Denver&departDate=03%2F31%2F2021&arrive=Zurich&returnDate=04%2F10%2F2"
+"021&numPassengers=1&seatPref=&seatType=Coach&.cgifields=roundtrip&.cgifields=seatType&.cgifiel"
+"ds=seatPref&findFlights.x=67&findFlights.y=14"
