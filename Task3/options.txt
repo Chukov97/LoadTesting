@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\KONON\Documents\VuGen\Scripts\Task3
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\konon\documents\vugen\scripts\task3\\logfile.log
+c:\users\konon\documents\vugen\scripts\task3\\combined_Task3.c
+c:\users\konon\documents\vugen\scripts\task3\\pre_cci.c

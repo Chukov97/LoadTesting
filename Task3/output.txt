@@ -1,0 +1,3 @@
+Action.c(84): Number of tickets = 3
+Action.c(96): Delete city is Denver
+Vuser Terminated.
