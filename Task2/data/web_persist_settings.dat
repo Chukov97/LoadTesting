@@ -1,0 +1,11 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2021/04/05 10:06:39
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2021/04/05 10:17:07
+StartRecordingIsDst_2=0
+[UserHomePage]
+UserHomePage=http://ovgorskiy.ru/
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1
