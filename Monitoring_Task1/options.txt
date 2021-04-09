@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IG:\ПО НТ\Zad1
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-eg:\по нт\zad1\\logfile.log
+g:\по нт\zad1\\combined_Zad1.c
+g:\по нт\zad1\\pre_cci.c

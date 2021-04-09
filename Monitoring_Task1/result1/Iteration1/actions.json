@@ -1,0 +1,147 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: webtours",
+                "infFile": "t1.inf",
+                "time": 1617984603668
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t2.inf",
+                "time": 1617984605454
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "01.Login_open_field",
+                "rawStartTime": 1617984601374,
+                "rawEndTime": 1617984603692,
+                "thinkTime": 0.0,
+                "wastedTime": 0.22545480728149415
+            },
+            {
+                "transactionName": "02.Login_fillin_fiels",
+                "rawStartTime": 1617984603698,
+                "rawEndTime": 1617984605456,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07090497016906738
+            }
+        ]
+    },
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t3.inf",
+                "time": 1617984606784
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t4.inf",
+                "time": 1617984607096
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t5.inf",
+                "time": 1617984609702
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t6.inf",
+                "time": 1617984610064
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t7.inf",
+                "time": 1617984610669
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "03.OpenPage_ticket_FindFlight",
+                "rawStartTime": 1617984605577,
+                "rawEndTime": 1617984606786,
+                "thinkTime": 0.0,
+                "wastedTime": 0.11914992332458496
+            },
+            {
+                "transactionName": "04.Create_ticket_FindFlight",
+                "rawStartTime": 1617984606792,
+                "rawEndTime": 1617984607099,
+                "thinkTime": 0.0,
+                "wastedTime": 0.027935266494750978
+            },
+            {
+                "transactionName": "05.Create_ticket_ChooseCost",
+                "rawStartTime": 1617984607104,
+                "rawEndTime": 1617984609705,
+                "thinkTime": 0.0,
+                "wastedTime": 2.2851552963256838
+            },
+            {
+                "transactionName": "06.Create_ticket_PaymentDetail",
+                "rawStartTime": 1617984609710,
+                "rawEndTime": 1617984610066,
+                "thinkTime": 0.0,
+                "wastedTime": 0.054931640625
+            },
+            {
+                "transactionName": "07.Itinerary",
+                "rawStartTime": 1617984610072,
+                "rawEndTime": 1617984610671,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06383657455444336
+            }
+        ]
+    },
+    {
+        "actionName": "DeleteAll",
+        "steps": [
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: itinerary.pl_2",
+                "infFile": "t8.inf",
+                "time": 1617984613315
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "08_2.DeleteAll",
+                "rawStartTime": 1617984610786,
+                "rawEndTime": 1617984613317,
+                "thinkTime": 0.0,
+                "wastedTime": 0.037683963775634769
+            }
+        ]
+    },
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t9.inf",
+                "time": 1617984614967
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "9.Log_out",
+                "rawStartTime": 1617984613434,
+                "rawEndTime": 1617984614970,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04269671440124512
+            }
+        ]
+    }
+]
